@@ -68,3 +68,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
+
+### My Steak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LongTuan-123)](https://git.io/streak-stats)
